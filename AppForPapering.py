@@ -80,7 +80,7 @@ if userInput2 == ('2'):
     print('One person will hold the roll and the other will run the tacker or the cap gun.')
     time.sleep(3)
     print('')
-    time.sleep()
+    time.sleep(3)
     
     
     
